@@ -1,0 +1,12 @@
+Possible Next Steps
+- Some next steps could be to test with a custom testing dataset and with different
+  model layers to increase model accuracy. The model can also be trained with a
+  larger variety of training data to make it generalize to more types of data which
+  would make it more useful in real world applications.
+
+Ways to Improve Data Collection of Customer
+- I'm not quite sure if this means the training data used was collected by the
+  customer, but that's how I interpret it. The main thing needed to imrove the data
+  collection is to know more specifics about what the customer is trying to use
+  the detection algorithm for. This can help to understand how to tailor the
+  training data to be either more generalized or of a certain background or phone type.
